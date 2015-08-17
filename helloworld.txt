@@ -1,1 +1,3 @@
-this is the beginning of a wild ride.
+this is the beginning of a wild ride with git. 
+
+and bitmaker labs.
